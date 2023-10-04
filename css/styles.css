@@ -6,3 +6,16 @@
     color: #292929;
 }
 
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    color: #222222;
+    text-decoration: none !important;
+}
+
+a {
+    color: inherit;
+}
