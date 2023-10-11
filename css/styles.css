@@ -1,21 +1,40 @@
-.vodisek-red {
-    color: #FF4040;
-}
-
-.vodisek-black {
-    color: #292929;
-}
-
 img {
-    width: 200px;
-    height: 200px;
-}
-
-h2 {
-    color: #222222;
-    text-decoration: none !important;
+    width: 230px;
+    height: 230px;
 }
 
 a {
-    color: inherit;
+    color: #584910 !important;
+    text-decoration: none !important;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.centered-div {
+    text-align: center;
+    padding: 20px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.margin-right-2 {
+    margin-right: 1rem;
+}
+
+.list-group-item {
+    border: none !important;
 }
